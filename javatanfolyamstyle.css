@@ -1,0 +1,15 @@
+body{
+    font-family: 'Gamja Flower', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Sunflower', sans-serif;
+}
+div{
+    width:80%;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+    box-sizing:border-box;
+}
